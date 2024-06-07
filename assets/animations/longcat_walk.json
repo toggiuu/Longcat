@@ -1,0 +1,9 @@
+{
+    "frames": [
+        { "filename": "longcat_walk_1.png", "duration": 100 },
+        { "filename": "longcat_walk_2.png", "duration": 100 },
+        { "filename": "longcat_walk_3.png", "duration": 100 },
+        { "filename": "longcat_walk_4.png", "duration": 100 }
+    ],
+    "loop": true
+}

@@ -1,0 +1,23 @@
+{
+    "player_start": {"x": 337, "y": 360},
+    "puzzle_bounds": {
+        "left": 337,
+        "right": 645,
+        "top": 237,
+        "bottom": 545
+    },
+    "puzzle_size": 5,
+    "empty_cells": [
+        {"row": 0, "col": 0},
+        {"row": 0, "col": 1},
+        {"row": 0, "col": 2},
+        {"row": 1, "col": 0},
+        {"row": 4, "col": 0}
+    ],
+    "obstacles": [
+        {"x": 459, "y": 418},
+        {"x": 520, "y": 418},
+        {"x": 459, "y": 480},
+        {"x": 520, "y": 480}
+    ]
+}

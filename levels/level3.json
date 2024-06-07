@@ -1,0 +1,15 @@
+{
+    "player_start": {"x": 461, "y": 298},
+    "puzzle_bounds": {
+        "left": 339,
+        "right": 583,
+        "top": 237,
+        "bottom": 481
+    },
+    "puzzle_size": 4,
+    "empty_cells": [],
+    "obstacles": [
+        {"x": 400, "y": 359},
+        {"x": 461, "y": 359}
+    ]
+}
